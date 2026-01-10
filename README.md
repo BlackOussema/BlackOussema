@@ -1,33 +1,34 @@
-# أهلاً بك يا عالم! 👋
+# Hello World! 👋
 
-أنا **BlackOussema**، مهندس أمن سيبراني وشغوف بالبرمجة من البرازيل، ساو باولو. أعمل حالياً في **Deep Instinct**، وأؤمن بأن الثقة بالنفس هي مفتاح النجاح في كل ما نقوم به.
+I'm **BlackOussema**, a passionate Cybersecurity Engineer and developer based in Brazil, São Paulo. Currently working at **Deep Instinct**, I firmly believe that self-trust is the key to success in everything we do.
 
-## عني 🚀
+## About Me 🚀
 
-بصفتي مطوراً ومحترفاً في الأمن السيبراني، أركز على بناء أدوات وحلول قوية تساعد في تعزيز الأمان الرقمي. أحب استكشاف التقنيات الجديدة والمساهمة في مجتمع المصادر المفتوحة.
+As a dedicated developer and cybersecurity professional, I focus on building robust tools and solutions that enhance digital security. I thrive on exploring new technologies and contributing to the open-source community.
 
-## مهاراتي 🛠️
+## My Skills 🛠️
 
-*   **لغات البرمجة**: Python, Shell, JavaScript (بناءً على مشروع Pentool)
-*   **مجالات الخبرة**: الأمن السيبراني، تحليل الشبكات، تطوير الأدوات الأمنية، أتمتة المهام.
+*   **Programming Languages**: Python, Shell, JavaScript
+*   **Expertise Areas**: Cybersecurity, Network Analysis, Security Tool Development, Task Automation, Web Development.
 
-## أبرز مشاريعي ✨
+## Featured Projects ✨
 
-هذه بعض المشاريع التي أفتخر بها:
+Here are some of the projects I'm proud of:
 
-*   **PhantomID-Generator**: أداة لإنشاء هويات رقمية وبصمات أصابع وهمية واقعية لاختبارات الأمن السيبراني وحماية الخصوصية.
-*   **SecureP2PChat**: تطبيق دردشة مشفرة من نظير إلى نظير بواجهة رسومية، يتيح اتصالاً آمناً وخاصاً عبر الإنترنت.
-*   **Pentool**: مجموعة أدوات احترافية للاستطلاع والمسح مع واجهة مستخدم ويب جذابة (Chart.js, Three.js). تدعم وضع Mock للعروض التوضيحية الآمنة ووضع Real الآمن الذي يقوم بتشغيل عمليات مسح nmap مع مصادقة قائمة على الرمز المميز، وتطبيق القائمة البيضاء، والمهام الخلفية، وتقارير JSON، وسجل التدقيق.
-*   **SerpentSecurityToolkit**: لوحة تحكم خفيفة الوزن ومفتوحة المصدر لتدقيق الأمن لتحليل الشبكة والأنظمة الداخلية. تتميز باستطلاع النظام، اكتشاف الشبكة، تحليل السجلات، ورسائل LAN المشفرة.
-*   **NetVision-**: أداة لاكتشاف الشبكة النشط + السلبي مع واجهة برمجة تطبيقات Flask خفيفة الوزن وواجهة مستخدم ويب.
+*   **VulnScanAI**: An automated web vulnerability scanner designed to identify common weaknesses like SQL Injection and Cross-Site Scripting (XSS) in web applications.
+*   **PhantomID-Generator**: A powerful tool for generating realistic fake digital identities and fingerprints, crucial for secure cybersecurity testing and privacy protection.
+*   **SecureP2PChat**: A secure, end-to-end encrypted peer-to-peer chat application with a graphical user interface, ensuring private communication over the internet.
+*   **Pentool**: A professional reconnaissance and scanning toolkit featuring a polished dark web UI, supporting both mock and real `nmap` scans with advanced authentication and reporting.
+*   **SerpentSecurityToolkit**: A lightweight, open-source security auditing dashboard for internal network and system analysis, including reconnaissance, network discovery, and encrypted LAN messaging.
+*   **NetVision-**: An active and passive network discovery tool with a lightweight Flask API and web UI.
 
-## إحصائيات GitHub 📊
+## GitHub Stats 📊
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=BlackOussema&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BlackOussema&layout=compact&theme=radical)
 
-## تواصل معي 📧
+## Connect with Me 📧
 
-يمكنك التواصل معي عبر البريد الإلكتروني: oussamaghariani17@gmail.com
+Feel free to reach out via email: oussamaghariani17@gmail.com
 
-دعنا نبني شيئاً رائعاً معاً!
+Let's build something amazing together!
