@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="600">
+  <img src="https://media.tenor.com/G4GdvEotPhoAAAAi/web-hack-hacker.gif" width="100%">
 </p>
 
 <h1 align="center">Hi 👋, I'm BlackOussema</h1>
@@ -14,17 +14,21 @@
 
 ---
 
-### 🛡️ Security Tools & Arsenal
-- **SIEM:** `Splunk`, `Elastic`
-- **Network Monitoring:** `Snort`, `NetworkMiner`, `Zeek`, `Brim`, `Wireshark`, `Tshark`
-- **Endpoint Security:** `Sysinternals`, `Windows Event Logs`, `Sysmon`, `Osquery`, `Wazuh`
-- **Threat Intelligence:** `Yara`, `OpenCTI`, `MISP`, `Trooper`
-- **Forensics & IR:** `Autopsy`, `Volatility`, `Kape`, `Redline`, `Velociraptor`
-- **Operating Systems:** `Kali Linux`, `Parrot OS`, `Windows`, `VirtualBox`
+### 🛡️ Security Report & Skills
+<p align="left">
+<img align="right" width="350" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+
+- 🛡️ **Role:** Mid-Level Penetration Tester.
+- 🔍 **Expertise:** OSINT & Social Engineering.
+- 🔐 **Focus:** Mastering **Cryptography**.
+- 🛠️ **Arsenal:** Python, C++, Bash, PHP, SQL.
+- 🐧 **OS:** Kali Linux, Parrot OS, Windows.
+- 🎯 **Mission:** Securing the digital frontier.
+</p>
 
 ---
 
-### 💻 Languages and Tools
+### 🛠️ Technical Toolkit
 <p align="left"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> 
@@ -54,13 +58,12 @@
 ---
 
 ### 📁 Security Projects
-| # | Project Name | Field |
+| # | Project Name | Focus Area |
 |---|---|---|
-| 1 | Static Malware Analysis Using YARA | Malware Analysis |
-| 2 | Snort IDS Rule Writing & Traffic Analysis | Network Security |
-| 3 | Zeek Network Behavior & Anomaly Detection | Threat Hunting |
-| 4 | OSINT Framework for Digital Footprinting | OSINT |
-| 5 | Automation of Security Tasks with Python | Automation |
+| 1 | Static Malware Analysis Using YARA | Malware Forensics |
+| 2 | Snort IDS Rule Writing & Traffic Analysis | Intrusion Detection |
+| 3 | Zeek Network Behavior & Anomaly Detection | Network Security |
+| 4 | OSINT Framework for Digital Footprinting | Reconnaissance |
 
 ---
 
