@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/G4GdvEotPhoAAAAi/web-hack-hacker.gif" width="100%">
+  <img src="https://media.tenor.com/G4GdvEotPhoAAAAi/web-hack-hacker.gif" width="400">
 </p>
 
 <h1 align="center">Hi 👋, I'm BlackOussema</h1>
@@ -16,7 +16,7 @@
 
 ### 🛡️ Security Report & Skills
 <p align="left">
-<img align="right" width="350" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif">
+<img align="right" width="200" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" style="margin-top: 20px;">
 
 - 🛡️ **Role:** Mid-Level Penetration Tester.
 - 🔍 **Expertise:** OSINT & Social Engineering.
@@ -24,6 +24,7 @@
 - 🛠️ **Arsenal:** Python, C++, Bash, PHP, SQL.
 - 🐧 **OS:** Kali Linux, Parrot OS, Windows.
 - 🎯 **Mission:** Securing the digital frontier.
+- ⚡ **Fact:** I ❤️ coffee & terminal.
 </p>
 
 ---
