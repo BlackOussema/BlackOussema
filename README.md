@@ -2,21 +2,25 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:000000&height=200&section=header&text=OUSSEMA%20GHARIANI&fontSize=70&animation=fadeIn&fontAlignY=35&desc=Mid%20PenTester%20|%20OSINT%20Expert%20|%20Cybersecurity&descSize=20&descAlignY=60" />
 </p>
 
-<h1 align="center">Hi 👋, I'm BlackOussema</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BlackOussema&label=Profile%20views&color=0e75b6&style=flat" alt="BlackOussema" />
+  <img src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" width="600">
+</p>
+
+<h1 align="center">Hi 👋, I'm BlackOussema</h1>
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=BlackOussema&label=Profile%20views&color=0e75b6&style=flat" alt="BlackOussema" /> 
 </p>
 
 ---
 
-### 🛡️ Security Tools
+### 🛡️ Security Tools & Arsenal
 - **SIEM:** `Splunk`, `Elastic`
 - **Network Monitoring:** `Snort`, `NetworkMiner`, `Zeek`, `Brim`, `Wireshark`, `Tshark`
 - **Endpoint Security:** `Sysinternals`, `Windows Event Logs`, `Sysmon`, `Osquery`, `Wazuh`
 - **Threat Intelligence:** `Yara`, `OpenCTI`, `MISP`, `Trooper`
-- **Digital Forensics:** `RegistryExplorer`, `Autopsy`, `Volatility`, `Kape`
-- **Incident Response:** `Redline`, `Velociraptor`, `TheHive`
-- **Operating Systems:** `Windows`, `Linux`, `VirtualBox`
+- **Forensics & IR:** `Autopsy`, `Volatility`, `Kape`, `Redline`, `Velociraptor`
+- **Operating Systems:** `Kali Linux`, `Parrot OS`, `Windows`, `VirtualBox`
 
 ---
 
@@ -41,11 +45,7 @@
 
 ---
 
-### 📊 Productivity Metrics
-<p align="center">
-  <img width="100%" src="https://github-readme-stats.vercel.app/api/wakatime?username=BlackOussema&layout=compact&theme=dark" />
-</p>
-
+### 📊 GitHub Statistics
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=BlackOussema&show_icons=true&theme=dark" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackOussema&layout=compact&theme=dark" />
@@ -53,14 +53,14 @@
 
 ---
 
-### 📁 Projects (Cybersecurity Focus)
-| # | Project | Focus Area |
+### 📁 Security Projects
+| # | Project Name | Field |
 |---|---|---|
-| 1 | Static Malware Analysis Using YARA | Malware Reverse Engineering |
-| 2 | Snort IDS Rule Writing and Live Traffic Analysis | Network IDS |
-| 3 | Snort Inline Mode Deployment and Attack Blocking | Active Defense |
-| 4 | Zeek Network Behavior Analysis and Anomaly Detection | NSM |
-| 5 | Threat Hunting with Brim and ZQL on Enterprise PCAPs | Threat Hunting |
+| 1 | Static Malware Analysis Using YARA | Malware Analysis |
+| 2 | Snort IDS Rule Writing & Traffic Analysis | Network Security |
+| 3 | Zeek Network Behavior & Anomaly Detection | Threat Hunting |
+| 4 | OSINT Framework for Digital Footprinting | OSINT |
+| 5 | Automation of Security Tasks with Python | Automation |
 
 ---
 
