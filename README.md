@@ -22,7 +22,7 @@
 - 🔍 **Expertise:** OSINT & Social Engineering.
 - 🔐 **Focus:** Mastering **Cryptography**.
 - 🛠️ **Arsenal:** Python, C++, Bash, PHP, SQL.
-- 🐧 **OS:** Kali Linux, Parrot OS, Windows.
+- 🐧 **OS:** Kali Linux, Parrot OS, Windows, Garuda.
 - 🎯 **Mission:** Securing the digital frontier.
 - ⚡ **Fact:** I ❤️ coffee & terminal.
 </p>
